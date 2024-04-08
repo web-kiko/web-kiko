@@ -1,13 +1,9 @@
-
-
-<h1> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= 撸码的快乐！人走了，代码还在！!&center=true&size=27"> </a> 
-Hi there! I'm kiko ~
-</h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= 撸码的快乐！人走了，代码还在！!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/web-kiko/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=web-kiko&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Nanjing.++%F0%9F%91%8B)
+
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
@@ -109,6 +105,9 @@ Hi there! I'm kiko ~
 
  
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=web-kiko&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+
  
 <!-- END_SECTION:douban -->
  
