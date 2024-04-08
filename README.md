@@ -1,10 +1,11 @@
-<h1>
+<h1 align="center"> 
+ <a href="https://sunguoqi.com/"> 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines= 撸码的快乐！人走了，代码还在！!&center=true&size=27"> </a>>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm kiko ~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h1>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= 撸码的快乐！人走了，代码还在！!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/web-kiko/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=web-kiko&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
