@@ -46,45 +46,8 @@
  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
  
 
-  <a href="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
-  </a>
-  &emsp;
-      <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-     <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/web-kiko">
-    <img src="https://badges.strrl.dev/visits/web-kiko/web-kiko?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/web-kiko">
-    <img src="https://badges.strrl.dev/years/web-kiko?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/web-kiko?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/web-kiko?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/web-kiko">
-    <img src="https://badges.strrl.dev/gists/web-kiko?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/web-kiko">
-    <img src="https://badges.strrl.dev/commits/monthly/web-kiko?style=flat-square&color=black&logo=github">
-  </a>
-</p>
  
-<h2></h2>
  
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
  
 
 <!-- END_SECTION:brain -->
@@ -98,7 +61,7 @@
 <!-- END_SECTION:douban -->
  
 </td></tr>
- 
+ <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=web-kiko&theme=xcode" /> </div>
 <tr><td>
 
 
