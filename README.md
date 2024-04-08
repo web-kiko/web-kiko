@@ -1,4 +1,6 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?撸码的快乐！人走了！代码还在!&center=true&size=27"> </a> </h1>
+
+ 
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);撸码的快乐！人走了！代码还在!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/web-kiko/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=web-kiko&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
@@ -24,6 +26,20 @@
  
  
 <!--my introduction end -->
+### 🧠 Web and code
+ 
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+ 
+<!-- START_SECTION:brain -->
+###  项目直通车
+
+* <a href='https://github.com/web-kiko/flutter3_getx_shop' target='_blank'>flutter+getX仿小米商城</a>
+* <a href='https://github.com/web-kiko/react17-source' target='_blank'>react原理解析 </a> 
+* <a href='https://github.com/web-kiko/webpack5_react' target='_blank'>webpack5配置开发和生产环境</a> 
+* <a href='https://github.com/web-kiko/kiko_ui' target='_blank'>搭建自己的react组件库</a> 
+* <a href='https://github.com/web-kiko/Vue_Echarts_Visualization' target='_blank'>vite+vue3大屏可视化项目</a> 
+* <a href='https://github.com/web-kiko/Bucket_map_tool' target='_blank'>一个可自行修改斗图工具</a> 
+* <a href='https://github.com/web-kiko/umi_shop' target='_blank'>react+umi的后台管理项目</a>
  
 <br>
  
@@ -82,22 +98,8 @@
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
  
-### 🧠 Web and code
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:brain -->
-###  项目直通车
 
-* <a href='https://github.com/web-kiko/flutter3_getx_shop' target='_blank'>flutter+getX仿小米商城</a>
-* <a href='https://github.com/web-kiko/react17-source' target='_blank'>react原理解析 </a> 
-* <a href='https://github.com/web-kiko/webpack5_react' target='_blank'>webpack5配置开发和生产环境</a> 
-* <a href='https://github.com/web-kiko/kiko_ui' target='_blank'>搭建自己的react组件库</a> 
-* <a href='https://github.com/web-kiko/Vue_Echarts_Visualization' target='_blank'>vite+vue3大屏可视化项目</a> 
-* <a href='https://github.com/web-kiko/Bucket_map_tool' target='_blank'>一个可自行修改斗图工具</a> 
-* <a href='https://github.com/web-kiko/umi_shop' target='_blank'>react+umi的后台管理项目</a>
 <!-- END_SECTION:brain -->
- <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-kiko" /> </div>
 </td></tr>
  
 <tr><td>
@@ -111,6 +113,12 @@
 </td></tr>
  
 <tr><td>
+
+
+
+ 
+
+ 
 
  
  
