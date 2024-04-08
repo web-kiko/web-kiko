@@ -43,14 +43,6 @@
  
 <br>
  
-<p align="center">
-  <a href="https://github.com/web-kiko" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=web-kiko&title_color=333&text_color=777" alt="web-kiko's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=web-kiko&hide=issues&title_color=333&text_color=777" alt="web-kiko's Stats" >
-    -->
-  </a>
-</p>
  
 <p align="center">
   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
