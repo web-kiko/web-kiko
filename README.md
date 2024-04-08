@@ -1,9 +1,9 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines= 撸码的快乐！人走了，代码还在！!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?撸码的快乐！人走了！代码还在!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/web-kiko/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=web-kiko&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">Kiko</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
@@ -97,16 +97,13 @@
 * <a href='https://github.com/web-kiko/Bucket_map_tool' target='_blank'>一个可自行修改斗图工具</a> 
 * <a href='https://github.com/web-kiko/umi_shop' target='_blank'>react+umi的后台管理项目</a>
 <!-- END_SECTION:brain -->
- 
+ <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-kiko" /> </div>
 </td></tr>
  
 <tr><td>
  
 
  
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=web-kiko&theme=xcode" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
  
 <!-- END_SECTION:douban -->
@@ -114,3 +111,14 @@
 </td></tr>
  
 <tr><td>
+
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+ 
