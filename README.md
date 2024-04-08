@@ -52,7 +52,7 @@
 
 <!-- END_SECTION:brain -->
 </td></tr>
- 
+ <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=web-kiko&theme=xcode" /> </div>
 <tr><td>
  
 
@@ -61,7 +61,7 @@
 <!-- END_SECTION:douban -->
  
 </td></tr>
- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=web-kiko&theme=xcode" /> </div>
+ 
 <tr><td>
 
 
