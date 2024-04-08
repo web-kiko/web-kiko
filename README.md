@@ -97,7 +97,7 @@
 * <a href='https://github.com/web-kiko/Bucket_map_tool' target='_blank'>一个可自行修改斗图工具</a> 
 * <a href='https://github.com/web-kiko/umi_shop' target='_blank'>react+umi的后台管理项目</a>
 <!-- END_SECTION:brain -->
- <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-kiko" /> </div>
+
 </td></tr>
  
 <tr><td>
@@ -107,7 +107,7 @@
 
  
 <!-- END_SECTION:douban -->
- 
+ <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=web-kiko&theme=xcode" /> </div>
 </td></tr>
  
 <tr><td>
